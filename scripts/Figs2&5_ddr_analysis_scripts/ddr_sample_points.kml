@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name></name>
+<description><![CDATA[]]></description>
+
+<Style id="style1">
+  <IconStyle>
+    <Icon>
+      <href>http://google.com/mapfiles/kml/paddle/wht-diamond.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>site 1</name>
+  <description><![CDATA[]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-62.873308,-10.178046
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 2</name>
+  <description><![CDATA[]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-62.787658,-10.171878
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 3</name>
+  <description><![CDATA[]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-62.79629,-10.16723
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 4</name>
+  <description><![CDATA[]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-62.77501,-10.20228
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 5</name>
+  <description><![CDATA[]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-62.832552,-10.170381
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 6</name>
+  <description><![CDATA[]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-62.83631,-10.16302
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 7</name>
+  <description><![CDATA[]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-62.787625,-10.248564
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 8</name>
+  <description><![CDATA[]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-62.779993,-10.221455
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 9</name>
+  <description><![CDATA[]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-62.79795,-10.1606
+    </coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>

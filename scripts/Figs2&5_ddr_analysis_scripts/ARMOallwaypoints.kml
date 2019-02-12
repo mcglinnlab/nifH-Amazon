@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ARMOallwaypoints.kmz</name>
+	<StyleMap id="waypoint">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_n">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_n0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_n1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint_h0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint_h1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>ARMOallwaypoints</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>IFA100V3</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 16:00:35</description>
+			<styleUrl>#waypoint0</styleUrl>
+			<Point>
+				<coordinates>-62.868339,-10.186244,152.253296</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93A001</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:44:48</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78185,-10.2506,151.291992</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1P72A001</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 1:27:59PM</description>
+			<styleUrl>#waypoint2</styleUrl>
+			<Point>
+				<coordinates>-62.820859,-10.16751,154.175903</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP87A001</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:42:27</description>
+			<styleUrl>#waypoint0</styleUrl>
+			<Point>
+				<coordinates>-62.80496000000001,-10.15602,158.501953</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP72Road</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 3:11:04PM</description>
+			<styleUrl>#waypoint0</styleUrl>
+			<Point>
+				<coordinates>-62.829122,-10.168088,142.159668</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP72C100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 3:31:36PM</description>
+			<styleUrl>#waypoint0</styleUrl>
+			<Point>
+				<coordinates>-62.82849700000001,-10.169734,139.275635</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP72A100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 3:25:32PM</description>
+			<styleUrl>#waypoint0</styleUrl>
+			<Point>
+				<coordinates>-62.829315,-10.168825,139.996582</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP72B100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 3:29:07PM</description>
+			<styleUrl>#waypoint0</styleUrl>
+			<Point>
+				<coordinates>-62.828414,-10.168897,139.756226</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP72A001</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 3:17:03PM</description>
+			<styleUrl>#waypoint0</styleUrl>
+			<Point>
+				<coordinates>-62.829414,-10.169712,137.833618</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1P72A001</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 1:27:59PM</description>
+			<styleUrl>#waypoint1</styleUrl>
+			<Point>
+				<coordinates>-62.820859,-10.16751,154.175903</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1FA001</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 6:56:38AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.87330799999999,-10.178046,151.291992</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1FA100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 8:04:59AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.873614,-10.177167,152.974243</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1FB100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 7:29:59AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.87242,-10.177275,146.485474</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1FC100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 7:20:48AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.872405,-10.178124,147.206421</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1P72A100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 1:34:38PM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.821009,-10.166624,154.175903</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFA001</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 8:55:31AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.8823,-10.178005,154.41626</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFA100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 9:17:27AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.88247499999999,-10.177128,158.261597</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFB100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 9:25:41AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.88152699999999,-10.17708,159.463257</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFC100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 9:39:45AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.881379,-10.177955,161.145508</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2P72B100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 2:31:12PM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.820243,-10.166563,153.695312</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2P72C100</name>
+			<visibility>0</visibility>
+			<description>15-APR-09 2:27:58PM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.82003599999999,-10.167442,153.454956</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Forestrd</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 14:30:11</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.868662,-10.186519,176.526489</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFA001V2</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 14:44:03</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.867879,-10.187348,172.921631</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFA001V3</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 14:51:18</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.867974,-10.187018,167.634277</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFA001V4</name>
+			<visibility>0</visibility>
+			<description>16-MAR-11 7:41:37</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.90007,-10.14039,125.577026</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFA001V5</name>
+			<visibility>0</visibility>
+			<description>16-MAR-11 10:53:52</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.900067,-10.140606,173.642578</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFA100V2</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 14:35:32</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.868183,-10.186777,179.170044</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFA100V4</name>
+			<visibility>0</visibility>
+			<description>16-MAR-11 7:45:26</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.90006,-10.13949,153.695312</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFA100V5</name>
+			<visibility>0</visibility>
+			<description>16-MAR-11 10:40:02</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.90001299999999,-10.139707,174.603882</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFB100V2</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 15:09:23</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.867211,-10.186022,155.858276</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFB100V4</name>
+			<visibility>0</visibility>
+			<description>16-MAR-11 7:47:30</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.89916,-10.13949,154.175903</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFB100V5</name>
+			<visibility>0</visibility>
+			<description>16-MAR-11 11:53:03</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.89912799999999,-10.139783,166.91333</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFC100V2</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 14:57:05</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.867225,-10.186564,162.587402</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFC100V4</name>
+			<visibility>0</visibility>
+			<description>16-MAR-11 7:48:54</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.89914000000001,-10.14038,154.896851</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IFC100V5</name>
+			<visibility>0</visibility>
+			<description>16-MAR-11 11:21:38</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.89907899999999,-10.140533,151.532349</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFA001V2</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 10:25:12</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78765799999999,-10.171878,165.71167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFA100V2</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 10:13:35</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.788055,-10.171073,167.874634</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFB100V2</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 10:47:22</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78714399999999,-10.170935,167.874634</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFC100V2</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 8:50:26</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79336899999999,-10.189666,175.324829</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFC100V3</name>
+			<visibility>0</visibility>
+			<description>17-MAR-10 10:34:36</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.786871,-10.171721,165.71167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFROAD</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 14:12:21</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.88119300000001,-10.178476,164.51001</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIFROAD2</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 16:10:21</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.881233,-10.178478,165.71167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIFA001</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 12:40:24</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79629,-10.16723,161.145508</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIFA100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 12:42:25</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79631999999999,-10.16635,160.424561</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIFB100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 12:43:56</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79543,-10.16647,159.2229</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIFC100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 12:45:27</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79545,-10.16736,159.2229</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIP72A001</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:32:53</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77501,-10.20228,146.245239</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIP72A100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:34:50</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77518,-10.20142,146.485474</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIP72B100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:36:43</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77429,-10.20117,146.004883</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIP72C100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:38:45</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77421,-10.20189,145.283813</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIP87A001</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 13:00:39</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77305,-10.20115,161.626221</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIP87A100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 12:49:19</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77328000000001,-10.20035,158.261597</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIP87B100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 13:04:12</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77235,-10.2001,161.866455</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIIP87C100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 13:06:18</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77216,-10.201,162.587402</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP72A001V2</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 18:01:27</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.83255200000001,-10.170381,141.919312</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP72A100V2</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 21:53:20</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.83224,-10.16951,154.41626</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP72B100V2</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 21:56:14</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.83176,-10.16995,154.175903</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP72C100V2</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 18:05:29</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.831734,-10.170765,142.880615</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP87A001</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:50:53</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79965,-10.15796,160.664795</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP87A100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:54:37</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79998,-10.15715,161.385864</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP87B100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:56:24</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79901000000001,-10.15698,160.664795</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IIP87C100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:58:40</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79876,-10.15783,161.145508</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IISC03A001</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 8:53:12</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78542,-10.19234,149.609741</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IISC03A100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 8:56:24</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78544,-10.19149,150.330688</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IISC03B100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 8:49:21</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.7845,-10.19146,149.369385</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IISC03C100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 8:47:17</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78452,-10.19235,149.609741</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP2A100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:33:00</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.823068,-10.182286,157.781006</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP72A001V2</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 21:44:42</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.83631,-10.16302,155.61792</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP72A100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:20:00</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.82101,-10.16662,156.81958</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP72A100V2</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 21:42:15</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.8363,-10.16216,154.656616</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP72B100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:28:35</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.82019,-10.16684,157.540649</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP72B100V2</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 21:50:12</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.83541,-10.16223,154.896851</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP72C100</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 17:36:51</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.819961,-10.167321,156.338989</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP72C100V2</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 21:47:34</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.83538,-10.16306,154.896851</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP72RD</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 17:23:24</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.821409,-10.166206,156.81958</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP87A100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:44:35</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.80532999999999,-10.15521,158.982544</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP87B100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:46:59</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.80429999999999,-10.15466,159.703613</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IP87C100</name>
+			<visibility>0</visibility>
+			<description>14-MAR-10 12:49:32</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.80418000000001,-10.15557,160.664795</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC03A001</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 8:27:13</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78006,-10.1969,148.408081</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC03A100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 8:32:30</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78007,-10.196,150.330688</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC03B100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 8:35:06</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77917000000001,-10.19604,149.609741</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC03C100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 8:37:04</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77915,-10.1969,149.850098</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC03JUNCTION</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 10:04:58</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77564000000001,-10.20001,152.493652</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC03ROAD</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:41:17</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78002,-10.19785,152.253296</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC03ROAD1</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 10:06:54</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77545000000001,-10.19901,154.175903</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93A001V2</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 15:02:23</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78762499999999,-10.248564,153.2146</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93A100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:52:44</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78187,-10.25003,152.493652</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93A20</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 15:30:03</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.787653,-10.248397,156.338989</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93B100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:49:05</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78106,-10.25004,152.974243</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93B40</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 15:34:03</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78737300000001,-10.248216,153.454956</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93C100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:46:06</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.7801,-10.25061,152.253296</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93C50</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 15:25:41</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.787182,-10.248521,156.579346</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93HIWAY</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 11:01:18</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.75755000000001,-10.22762,151.051636</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93RD</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 14:41:39</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.789691,-10.250894,169.31665</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93RQAD</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:56:41</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.78185,-10.2511,152.734009</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC93RTTURN</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 11:08:44</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.76264,-10.25084,152.013062</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC98A001</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:34:58</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.7783,-10.22295,152.974243</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC98A001V2</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 10:53:13</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77999299999999,-10.221455,170.758545</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC98A100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:37:50</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.7783,-10.22209,153.935669</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC98B100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:28:47</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77736,-10.22201,152.253296</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC98C100</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:31:09</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77738,-10.22296,154.41626</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC98JUNCTION</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 10:11:50</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77155999999999,-10.21412,153.454956</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISC98ROAD</name>
+			<visibility>0</visibility>
+			<description>16-MAR-10 9:27:34</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.7773,-10.22137,152.734009</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISCA100V2</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 11:02:34</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.780088,-10.220588,172.921631</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISCB100V2</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 11:27:55</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.77917999999999,-10.2204,174.603882</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISCC100V2</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 11:13:27</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.779076,-10.221326,175.324829</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISCRD2</name>
+			<visibility>0</visibility>
+			<description>18-MAR-10 10:31:13</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.779861,-10.219972,168.835938</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P04A001</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:25:19</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79954,-10.16234,147.446777</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P04A100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:27:50</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79951,-10.16144,146.485474</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P04B100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:29:48</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79872,-10.16135,146.245239</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P04C100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:31:23</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79863,-10.16227,146.004883</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P11A001</name>
+			<visibility>0</visibility>
+			<description>14-APR-09 5:46:51AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.83084,-10.17659,140.477417</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P11A100</name>
+			<visibility>0</visibility>
+			<description>14-APR-09 5:58:41AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.83138399999999,-10.175849,138.314331</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P11B100</name>
+			<visibility>0</visibility>
+			<description>14-APR-09 7:11:20AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.830666,-10.175317,138.314331</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P11C100</name>
+			<visibility>0</visibility>
+			<description>14-APR-09 6:36:25AM</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.830107,-10.176066,139.515869</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SCA001</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:42:16</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79795,-10.1606,144.803223</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SCA100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:45:31</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79816,-10.1597,146.485474</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SCB100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:47:02</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79726,-10.15964,146.004883</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SCC100</name>
+			<visibility>0</visibility>
+			<description>15-MAR-10 7:48:21</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.79707000000001,-10.16054,146.004883</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trocrd</name>
+			<visibility>0</visibility>
+			<description>14-MAR-11 16:54:45</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.890259,-10.142852,148.648438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TrocSEcorner</name>
+			<visibility>0</visibility>
+			<description>14-MAR-11 17:19:37</description>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-62.89819099999999,-10.141646,136.391724</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
